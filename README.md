@@ -73,7 +73,7 @@ The table below is sorted in descending order by company size (market capitaliza
 
 The list below features open-source billing engines, real-time OCS, CDR mediation pipelines, and 5G charging platforms, sorted in descending order by GitHub star count.
 
-| Project | Stars | Focus & Description | Tech Stack |
+| Project | Github_Stars | Focus & Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Kill Bill](https://github.com/killbill/killbill)** | [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Enterprise-grade modular subscription billing and payment processing platform with real-time invoice generation, invoice item adjustments, plugin architecture, and payment gateway integrations. | Java, OSGi, PostgreSQL / MySQL |
 | **[Open5GS](https://github.com/open5gs/open5gs)** | [![GitHub stars](https://img.shields.io/github/stars/open5gs/open5gs?style=social&color=white)](https://github.com/open5gs/open5gs/stargazers) | C-language Open Source implementation of 5G Core (5GC) and EPC (4G), featuring 3GPP-compliant charging and policy architectures (PCRF / PCF / CHF / SMF charging triggers). | C, MongoDB, Meson |
