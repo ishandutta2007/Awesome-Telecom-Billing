@@ -1,6 +1,6 @@
 # Awesome-Telecom-Billing
 
-# Top Telecom Billing Platforms Ecosystem
+## Top Telecom Billing Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Convergent Billing, Real-Time Charging (OCS), Rating, Mediation, Invoicing & Revenue Management for CSPs, MVNOs & ISPs*
 **Last updated: August 2026**
